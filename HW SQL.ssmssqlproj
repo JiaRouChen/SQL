@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="HW SQL">
+  <Items>
+    <LogicalFolder Name="連線" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-MPTOHBS:sa">
+          <Created>2024-06-12T17:40:57.9663317+08:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-MPTOHBS</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - 查詢</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="MCSDD11301-34:abc">
+          <Created>2024-07-05T09:35:50.1906316+08:00</Created>
+          <Type>SQL</Type>
+          <Server>MCSDD11301-34</Server>
+          <UserName>abc</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>北風</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - 查詢</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="MCSDD11301-34:sa">
+          <Created>2024-06-12T15:02:09.5641687+08:00</Created>
+          <Type>SQL</Type>
+          <Server>MCSDD11301-34</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB>北風</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - 查詢</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="查詢" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="mission_1_1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD11301-34:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD11301-34</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>mission_1_1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mission_1_2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD11301-34:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD11301-34</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>mission_1_2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mission_2_1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD11301-34:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD11301-34</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>mission_2_1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mission_2_2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD11301-34:False:abc</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD11301-34</AssociatedConnSrvName>
+          <AssociatedConnUserName>abc</AssociatedConnUserName>
+          <FullPath>mission_2_2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mission_2_3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD11301-34:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD11301-34</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>mission_2_3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mission_2_4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD11301-34:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD11301-34</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>mission_2_4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mission_2_5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD11301-34:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD11301-34</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>mission_2_5.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mission_3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD11301-34:False:abc</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD11301-34</AssociatedConnSrvName>
+          <AssociatedConnUserName>abc</AssociatedConnUserName>
+          <FullPath>mission_3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mission_4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD11301-34:False:abc</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD11301-34</AssociatedConnSrvName>
+          <AssociatedConnUserName>abc</AssociatedConnUserName>
+          <FullPath>mission_4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mission_4-2版的.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD11301-34:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD11301-34</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>mission_4-2版的.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mission-4老師北風中文.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD11301-34:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD11301-34</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>mission-4老師北風中文.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mission5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MCSDD11301-34:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MCSDD11301-34</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>mission5.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="其他" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
